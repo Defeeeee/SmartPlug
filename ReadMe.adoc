@@ -15,7 +15,7 @@
 This project is released under the {License}.
 
 === Contributing
-To contribute to this project please contact Charles Lechair#0078 on Discord
+To contribute to this project please contact {Discord} on Discord
 
 === BOM
 
